@@ -1,0 +1,5 @@
+name: pure_dart_redux
+description: Pure Dart Redux
+
+dependencies:
+  meta: ^1.1.6
